@@ -2,7 +2,7 @@
 
 A new Flutter project to conduct functionalities in IT faculty of SLTC.
 
-# Getting Started
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
